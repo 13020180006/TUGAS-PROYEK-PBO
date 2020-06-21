@@ -1,4 +1,9 @@
-
+/*
+    Nama	: Paramadina Mulya Majid
+    Stambuk	: 13020180006
+    Hari/Tgl	: Jumat, 19 Juni 2020
+    Waktu	: 15.09 WITA
+*/
 package View;
 
 import java.awt.BorderLayout;

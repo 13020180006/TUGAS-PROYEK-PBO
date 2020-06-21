@@ -1,8 +1,8 @@
 /*
     Nama	: Paramadina Mulya Majid
     Stambuk	: 13020180006
-    Hari/Tgl	: Kamis, 18 Juni 2020
-    Waktu	: 23.30 WITA
+    Hari/Tgl	: Jumat, 19 Juni 2020
+    Waktu	: 00.08 WITA
 */
 package View;
 
